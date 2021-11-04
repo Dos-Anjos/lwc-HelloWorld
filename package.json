@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/Dos-Anjos.lwc-kvlegmbw",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Zrn4rTgVbGItjWBYKdu0 --open"
+  }
+}
